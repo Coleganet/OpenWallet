@@ -4,7 +4,7 @@ OpenWallet for Android
 The goal of this project is to build the best free, libre, and open source light wallet for multiple cryptocurrencies (Bitcoin, Ethereum, Ripple, etc) on Android. Security and usability are, of course, the priorities. For this reason, your private keys never leave the device. Luckily, this wallet is compliant with BIP32, BIP39, and BIP44. A single 24-word mnemonic phrase may be used to recover each and every one of your cryptocurrency wallets.
 
 ## Contributions
-
+Feel free to start helping the project 
 Contributions aren't just welcome, they're financially encouraged! (Well, they will be soon. Hang tight!) Eventually, we hope to set up a cryptocurrency-based (likely BTC or ETH) rewards system for contributions, be they new features, new translations, or new coins. As always, all you've gotta do is fork and pull!
 
 By the way, if you'd like to add new coins, check out this document provided by Coinomi: [document](https://coinomi.com/AddingSupportForANewCurrency/).
